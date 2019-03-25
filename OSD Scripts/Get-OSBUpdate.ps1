@@ -15,7 +15,7 @@ Selects the Catalog JSON file containing the Updates
 Executes the Download of files
 
 .PARAMETER HideDetails
-Hides all results
+Hides all results so things look better
 
 .PARAMETER GridView
 Displays the Updates in a PowerShell GridView so Updates can be selected.
